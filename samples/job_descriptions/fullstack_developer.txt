@@ -1,0 +1,19 @@
+Job Title: Full Stack Developer
+Department: Product Engineering
+Experience Required: 3+ years
+
+Job Summary:
+We are seeking a Full Stack Developer to build, scale, and maintain cloud-native web applications. You will work across modern frontend frameworks and backend microservices.
+
+Required Skills:
+- 3+ years experience with JavaScript, TypeScript, and React.js.
+- Strong backend experience with Node.js, Express, or Python (Flask/FastAPI).
+- Relational database experience with SQL (PostgreSQL or MySQL).
+- REST API design and API security best practices.
+- Version control with Git and CI/CD pipelines.
+- Bachelor's degree in Computer Science or Software Engineering.
+
+Preferred Qualifications:
+- Experience with Docker, Kubernetes, and AWS cloud services.
+- Familiarity with Tailwind CSS and Next.js.
+- Agile and Scrum development experience.

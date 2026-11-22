@@ -1,0 +1,29 @@
+Job Title: Analytics Engineer
+Location: Chennai / Remote
+Department: Data & Business Intelligence
+
+About the Role:
+We are looking for an Analytics Engineer with 2+ years of experience to bridge the gap between business reporting and data engineering. You will be responsible for building robust SQL pipelines, automated reporting workflows, and interactive dashboards to ensure business stakeholders have real-time visibility into mission-critical KPIs.
+
+Key Responsibilities:
+- Design, optimize, and maintain complex SQL queries, views, and data warehousing models.
+- Develop and automate ETL pipelines and reporting scripts using Python and SQL.
+- Build and maintain high-performance executive dashboards in Power BI or Tableau.
+- Implement automated data reconciliation, data quality checks, and pre-flight validation workflows.
+- Monitor production reporting pipelines, proactively identify anomalies, and enforce strict SLA monitoring.
+- Collaborate with engineering teams using Git version control and Agile/Scrum methodology.
+
+Requirements / What You'll Need:
+- Minimum 2 years of proven hands-on experience in Analytics Engineering, BI Analysis, or Data Analytics.
+- Bachelor's degree in Computer Science, Information Technology, Engineering, or a related quantitative field.
+- Expert-level SQL skills (complex aggregations, window functions, query optimization, indexing).
+- Strong proficiency in Python for data manipulation, ETL scripting, and pipeline automation (Pandas, automated workflows).
+- Proven track record with Power BI (DAX, dimensional modeling, Power Query) or Tableau.
+- Experience in automated data quality validation, data reconciliation, and SLA monitoring.
+- Hands-on experience with Git version control and Agile sprint environments.
+
+Preferred / Nice to Have:
+- Experience with modern cloud data warehouses like Snowflake or Google BigQuery.
+- Familiarity with dbt (data build tool) or Airflow pipeline orchestration.
+- Exposure to LLM/AI workflows or prompt-driven analytics tooling.
+- Relevant certification (e.g., Microsoft Certified: Power BI Data Analyst PL-300 or Cloud certification).

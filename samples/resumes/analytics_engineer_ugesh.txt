@@ -1,0 +1,28 @@
+UGESH KANNAN V
+Chennai, Tamil Nadu | +91 9944846751 | ugesh.kannan101@gmail.com | github.com/ugeshkannan101-ops
+
+Professional Summary:
+Analytics Engineer & BI Analyst with 2.4 years of experience building SQL pipelines, automated reporting workflows, and interactive dashboards. Specializes in automated data reconciliation, SLA monitoring, and pre-flight validation; currently expanding into Python-based pipeline automation and LLM-driven analytics tooling.
+
+Core Competencies & Skills:
+- Languages & Scripts: SQL (MySQL, PostgreSQL, T-SQL), Python (Pandas, NumPy, automation scripts)
+- BI & Analytics Tools: Power BI (DAX, Power Query, Data Modeling), Tableau, Excel (Advanced)
+- Data Engineering & Ops: ETL pipelines, Data Warehousing, Data Reconciliation, Data Quality, SLA Monitoring
+- Tools & Methodologies: Git, GitHub, Agile, Scrum, Linux, REST API integration, LLM workflows
+
+Professional Experience:
+BI Analyst | Altruist Technologies Pvt Ltd (Client: Airtel Telecom)
+Sep 2023 - Jan 2026 | Chennai, India
+- Spearheaded daily data reconciliation and SQL pipeline validation across multi-million row telecom datasets.
+- Engineered automated Python and SQL workflows that reduced manual reporting turnaround by 65%.
+- Architected enterprise Power BI dashboards with complex DAX measures, serving senior leadership and operational teams.
+- Established automated SLA monitoring scripts and alert webhooks to preempt pipeline breaches before business impact.
+- Actively contributed to sprint planning, code reviews, and Git version control across data teams.
+
+Education:
+Bachelor of Engineering (B.E.) in Computer Science & Engineering
+Anna University | Graduated 2023
+
+Certifications & Continuous Learning:
+- Power BI Certified Data Analyst Associate
+- SQL Performance & Query Optimization Training

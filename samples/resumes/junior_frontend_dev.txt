@@ -1,0 +1,21 @@
+ALEX CHEN
+San Francisco, CA | alex.chen@example.com | github.com/alexchen-dev
+
+Professional Summary:
+Passionate Junior Frontend Developer with 1.2 years of experience building modern user interfaces using React, JavaScript, and HTML/CSS.
+
+Technical Skills:
+- Frontend: JavaScript, React, HTML/CSS, Tailwind, Redux
+- Backend & Databases: Node.js, Express (basic), MongoDB
+- Tools: Git, GitHub, VS Code, Figma
+
+Work Experience:
+Junior Frontend Developer | TechStart Inc
+Jan 2025 - Present
+- Built responsive UI components using React and Tailwind CSS.
+- Integrated client-side REST APIs and managed component state.
+- Collaborated in daily Agile standups and submitted pull requests via Git.
+
+Education:
+Associate Degree in Web Development
+City College | 2024
